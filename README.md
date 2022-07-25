@@ -1,5 +1,6 @@
-# DH2022 Worhsop[WT-11] 
-## Ugarit: Translation Alignment Technologies for Under-resourced Languages 
+
+# [[WT-11]  Ugarit: Translation Alignment Technologies for Under-resourced Languages](https://dh2022.adho.org/workshops-and-tutorials/wt-11)
+### DH2022 Worhsop 
 
 **Organizers:** Chiara Palladino, Nadia Kanagawa, Tariq Yousef, Farnoosh Shamsian
 
@@ -27,3 +28,5 @@ The workshop aims at teaching the fundamentals of Translation Alignment in Digit
 
 ### Resources:
 - Yousef, Tariq, Chiara Palladino, Farnoosh Shamsian, and Maryam Foradi. 2022. ["Translation Alignment with Ugarit"](https://www.mdpi.com/2078-2489/13/2/65/pdf?version=1644549376) Information 13, no. 2: 65. https://doi.org/10.3390/info13020065
+- Palladino, Chiara, Maryam Foradi, and Tariq Yousef. ["Translation alignment for historical language learning: a case study."](https://www.proquest.com/docview/2603407508?pq-origsite=gscholar&fromopenview=true) Digital Humanities Quarterly 15, no. 3 (2021).
+- Yousef, Tariq, Chiara Palladino, Farnoosh Shamsian, Anise d’Orange Ferreira, and Michel Ferreira dos Reis. ["An automatic model and Gold Standard for translation alignment of Ancient Greek."](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.634.pdf)
