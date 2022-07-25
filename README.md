@@ -52,3 +52,4 @@ The workshop aims at teaching the fundamentals of Translation Alignment in Digit
 On Alignment Guidelines:
 - Lambert, Patrik, Adrià De Gispert, Rafael Banchs, and José B. Mariño. ["Guidelines for word alignment evaluation and manual alignment."](https://link.springer.com/content/pdf/10.1007/s10579-005-4822-5.pdf) Language Resources and Evaluation 39, no. 4 (2005): 267-285.
 - Cheung, Lawrence, Tom Lai, Robert Luk, Olivia OY Kwong, King Kui Sin, and Benjamin K. Tsou. ["Some considerations on guidelines for bilingual alignment and terminology extraction."](https://aclanthology.org/W02-1802.pdf) In COLING-02: The First SIGHAN Workshop on Chinese Language Processing. 2002.
+- Li, Jin-Ji, Dong-Il Kim, and Jong-Hyeok Lee. ["Annotation Guidelines for Chinese-Korean Word Alignment."](http://www.lrec-conf.org/proceedings/lrec2008/pdf/137_paper.pdf)
