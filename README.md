@@ -26,8 +26,15 @@ The workshop aims at teaching the fundamentals of Translation Alignment in Digit
 - Automatic Translation alignment
 - discussion.
 
-### Resources:
+
+### Resources
+- Ugarit Translation Alignment Editor: https://ugarit.ialigner.com/
+- Ugarit Automatic Translation Alignment Tool (Beta): http://ugarit-aligner.com/
+- Alignment Gold Standards for Ancient Greek (including guidelines): https://github.com/UgaritAlignment/Alignment-Gold-Standards
+
+### References:
 - Yousef, Tariq, Chiara Palladino, Farnoosh Shamsian, and Maryam Foradi. 2022. ["Translation Alignment with Ugarit"](https://www.mdpi.com/2078-2489/13/2/65/pdf?version=1644549376) Information 13, no. 2: 65. https://doi.org/10.3390/info13020065
 - Palladino, Chiara, Maryam Foradi, and Tariq Yousef. ["Translation alignment for historical language learning: a case study."](https://www.proquest.com/docview/2603407508?pq-origsite=gscholar&fromopenview=true) Digital Humanities Quarterly 15, no. 3 (2021).
 - Yousef, Tariq, Chiara Palladino, Farnoosh Shamsian, Anise d’Orange Ferreira, and Michel Ferreira dos Reis. ["An automatic model and Gold Standard for translation alignment of Ancient Greek."](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.634.pdf). In Proceedings of the Language Resources and Evaluation Conference (pp. 5894–5905). European Language Resources Association, 2022.
 - Yousef, Tariq, Chiara, Palladino, David J., Wright, and Monica, Berti. ["Automatic Translation Alignment for Ancient Greek and Latin."](http://www.lrec-conf.org/proceedings/lrec2022/workshops/LT4HALA/pdf/2022.lt4hala2022-1.14.pdf) . In Proceedings of the Second Workshop on Language Technologies for Historical and Ancient Languages (pp. 101–107). European Language Resources Association, 2022.
+- Palladino, Chiara. ["Reading texts in digital environments: applications of translation alignment for Classical language learning."](https://jitp.commons.gc.cuny.edu/reading-texts-in-digital-environments-applications-of-translation-alignment-for-classical-language-learning/) Journal of Interactive Technology and Pedagogy, 18 (2020).
