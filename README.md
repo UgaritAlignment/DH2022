@@ -32,6 +32,16 @@ The workshop aims at teaching the fundamentals of Translation Alignment in Digit
 - Ugarit Automatic Translation Alignment Tool (Beta): http://ugarit-aligner.com/
 - Alignment Gold Standards for Ancient Greek (including guidelines): https://github.com/UgaritAlignment/Alignment-Gold-Standards
 
+### Parallel Corpora
+- [The bible corpus](https://github.com/christos-c/bible-corpus): a multilingual parallel corpus created from translations of the Bible.
+- [Quran Translations](https://tanzil.net/trans/)
+- [The open parallel corpus](https://opus.nlpl.eu/)
+- [UM-Corpus](http://nlp2ct.cis.umac.mo/um-corpus/): A Large English-Chinese Parallel Corpus
+
+
+
+
+
 ### References:
 - Yousef, Tariq, Chiara Palladino, Farnoosh Shamsian, and Maryam Foradi. 2022. ["Translation Alignment with Ugarit"](https://www.mdpi.com/2078-2489/13/2/65/pdf?version=1644549376) Information 13, no. 2: 65. https://doi.org/10.3390/info13020065
 - Palladino, Chiara, Maryam Foradi, and Tariq Yousef. ["Translation alignment for historical language learning: a case study."](https://www.proquest.com/docview/2603407508?pq-origsite=gscholar&fromopenview=true) Digital Humanities Quarterly 15, no. 3 (2021).
